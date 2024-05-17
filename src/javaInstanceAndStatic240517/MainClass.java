@@ -16,6 +16,8 @@ public class MainClass {
 		
 		int result2 = Calulator.minus(20, 10);
 		System.out.println(result2);
+		
+		System.out.println(Calulator.PI);
 
 	}
 
